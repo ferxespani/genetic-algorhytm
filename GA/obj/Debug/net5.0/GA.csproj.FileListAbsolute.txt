@@ -1,0 +1,16 @@
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\GA.exe
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\GA.deps.json
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\GA.runtimeconfig.json
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\GA.runtimeconfig.dev.json
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\GA.dll
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\ref\GA.dll
+C:\Users\micke\source\repos\GA\GA\bin\Debug\net5.0\GA.pdb
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.csprojAssemblyReference.cache
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.AssemblyInfoInputs.cache
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.AssemblyInfo.cs
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.csproj.CoreCompileInputs.cache
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.dll
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\ref\GA.dll
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.pdb
+C:\Users\micke\source\repos\GA\GA\obj\Debug\net5.0\GA.genruntimeconfig.cache
